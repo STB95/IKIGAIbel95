@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IKIGAIbel95
-- 👀 I’m interested in SQL/Python/RDBMS/C#/JS
+- 👀 I’m interested in SQL/Python/RDBMS/C#/JS/HTML/CSS
 - 🌱 I’m currently learning GRAD PROGR
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me N/A
